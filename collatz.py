@@ -1,9 +1,7 @@
 # Asks the user to input any positive integer.
 # If it is even, divide it by two. If it is odd, multiply it by three and add one.
 # Program ends if value is 1.
-# References:
-# https://www.mathworks.com/matlabcentral/answers/246944-while-loop-nested-within-for-loop
-# https://stackoverflow.com/questions/36843103/while-loop-with-if-else-statement-in-python/36843356
+
 
 # Author: Daniel Gonzalez
 
