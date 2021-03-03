@@ -6,30 +6,27 @@
 # Author: Daniel Gonzalez
 
 
+def collatz(n):
+    numbers = []    
+    # empty list to be populated by the loop 
+    numbers.append(n)   
+    # first character of the list
 
 
-i = int(input(': ')) 
-# takes input from user
-numbers = []    
-# empty list to be populated by the loop    
-numbers.append(i)   
-# first character of the list
-x = i
-# sets user's input to variable in loop
+    while n != 1:
+        if n % 2 == 0:         
+            numbers.append(n/2) 
+            # list appends character
+            n = n/2             
+            # updates value of x
+        else:                           
+            numbers.append(n * 3 + 1)   
+            # list appends character
+            n= n * 3 + 1                
+            # updates the value of x
+        
+    return "list is: {}.".format(numbers) # Prints results
 
 
-while x != 1:
-    if x % 2 == 0:         
-        numbers.append(x/2) 
-        # list appends character
-        x = x/2             
-        # updates value of x
-    else:                           
-        numbers.append(x * 3 + 1)   
-        # list appends character
-        x= x * 3 + 1                
-        # updates the value of x
-    
-print(numbers) # Prints results
 
-   
+print(collatz(int(input('enter your number: '))))
