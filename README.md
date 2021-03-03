@@ -36,9 +36,8 @@ Week 4 -- collatz.py
         1. Takes input from the user.
         2. empty list to be populated by the loop .
         3. Assigns the input as the first character of the list.
-        4. sets user's input to variable in loop.
-        5. Condition 1, addition to list and updat the value of x.
-        6. Condition 2, addition to list and updat the value of x.
+        4. Condition 1, addition to list and updat the value of x.
+        5. Condition 2, addition to list and updat the value of x.
 
     B. References:
         1. https://www.mathworks.com/matlabcentral/answers/246944-while-loop-nested-within-for-loop
