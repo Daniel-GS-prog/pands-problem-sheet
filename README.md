@@ -99,3 +99,21 @@ week 6 -- squareroot.py:
 
             2.1 Specifically comparing with python buil-in function:
                 https://stackoverflow.com/questions/55232484/newtons-method-for-approximating-square-roots
+
+week 7 -- es.py:
+    Counts the occurence of a character in a file.
+
+    A. steps:
+    1. Define file as variable "filename".
+    define function with two parameters: "file", "letter to count".
+
+    
+    B: References:
+        “Count Occurrence of Character in File Using Python - CodeSpeedy.” CodeSpeedy, 16 Mar. 2020, 
+        www.codespeedy.com/count-occurrence-of-character-in-file-using-python/. Accessed 5 Mar. 2021.
+
+        “Python – Count Number of Characters in Text File - Python Examples.” 
+        Pythonexamples.org, 2021, pythonexamples.org/python-count-number-of-characters-in-text-file/. Accessed 5 Mar. 2021.Yamac Candan. 
+
+        “Python - Counting the Number of Characters in Files.” Stack Overflow, 31 Aug. 2017, 
+        stackoverflow.com/questions/45974386/python-counting-the-number-of-characters-in-files#45974638. Accessed 5 Mar. 2021.
