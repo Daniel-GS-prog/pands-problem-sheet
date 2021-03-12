@@ -108,7 +108,7 @@ week 7 -- es.py:
     define function with two parameters: "file", "letter to count".
 
     
-    B: References:
+    B. References:
         “Count Occurrence of Character in File Using Python - CodeSpeedy.” CodeSpeedy, 16 Mar. 2020, 
         www.codespeedy.com/count-occurrence-of-character-in-file-using-python/. Accessed 5 Mar. 2021.
 
@@ -117,3 +117,27 @@ week 7 -- es.py:
 
         “Python - Counting the Number of Characters in Files.” Stack Overflow, 31 Aug. 2017, 
         stackoverflow.com/questions/45974386/python-counting-the-number-of-characters-in-files#45974638. Accessed 5 Mar. 2021.
+
+week 8 -- plottask.py:
+    Displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
+
+    A. steps:
+        1. Importing modules.
+        2. Defining varibles
+        3. Defining plots.
+        4. Decoration.
+    
+    B. References:
+        “API Overview — Matplotlib 3.3.4 Documentation.” Matplotlib.org, 2012, matplotlib.org/stable/api/index.html#usage-patterns. Accessed 12 Mar. 2021.Bhavika Kanani. 
+
+        “Matplotlib - Graph Decoration - Machine Learning Tutorials.” Machine Learning Tutorials, 13 Sept. 2019, studymachinelearning.com/matplotlib-graph-decoration/. Accessed 12 Mar. 2021.
+
+        “How to Change Background Color in Matplotlib with Python - CodeSpeedy.” CodeSpeedy, 24 Sept. 2019, www.codespeedy.com/change-background-color-in-matplotlib-with-python/. Accessed 12 Mar. 2021.
+
+        “Matplotlib.pyplot.colors() in Python - GeeksforGeeks.” GeeksforGeeks, 20 Apr. 2020, www.geeksforgeeks.org/matplotlib-pyplot-colors-in-python/. Accessed 12 Mar. 2021.
+
+        “Matplotlib.pyplot.plot — Matplotlib 3.3.4 Documentation.” Matplotlib.org, 2012, matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html#matplotlib.pyplot.plot. Accessed 12 Mar. 2021.
+
+        “Matplotlib.pyplot.title() in Python - GeeksforGeeks.” GeeksforGeeks, 12 Apr. 2020, www.geeksforgeeks.org/matplotlib-pyplot-title-in-python/. Accessed 12 Mar. 2021.
+
+        “Tutorials — Matplotlib 3.3.4 Documentation.” Matplotlib.org, 2012, matplotlib.org/stable/tutorials/index.html#tutorials. Accessed 12 Mar. 2021.
