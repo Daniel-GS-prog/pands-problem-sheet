@@ -9,11 +9,9 @@ Week 2 -- bmi.py:
         3. Returns results.
 
     B. References:
-        1. Calculations:
-            https://www.thecalculatorsite.com/articles/health/bmi-formula-for-bmi-calculations.php
+        Alastair Hazell. “BMI Formula - How to Use the BMI Formula.” Thecalculatorsite.com, 2021, www.thecalculatorsite.com/articles/health/bmi-formula-for-bmi-calculations.php. Accessed 19 Mar.2021.
 
-        2. Code and comparison:
-            https://www.includehelp.com/python/bmi-body-mass-index-calculator.aspx
+        “Includehelp.” Includehelp.com, 2017, www.includehelp.com/python/bmi-body-mass-index-calculator.aspx. Accessed 19 Mar. 2021.
 
 
 
@@ -25,9 +23,9 @@ Week 3 -- secondstring.py
         2. Creates a slice from the end of the string
 
     B. References:
-        1. https://www.w3schools.com/python/python_howto_reverse_string.asp
+        How to reverse a String in Python. (2021). Retrieved March 19, 2021, from W3schools.com website: https://www.w3schools.com/python/python_howto_reverse_string.asp
 
-
+‌
 
 Week 4 -- collatz.py
     Takes integer from user. Performs calculation depending on wheter it's odd or even until result is 0.
@@ -40,11 +38,12 @@ Week 4 -- collatz.py
         5. Condition 2, addition to list and updat the value of x.
 
     B. References:
-        1. https://www.mathworks.com/matlabcentral/answers/246944-while-loop-nested-within-for-loop
+        “while” loop nested within “for” loop - MATLAB Answers - MATLAB Central. (2015). Retrieved March 19, 2021, from Mathworks.com website: https://www.mathworks.com/matlabcentral/answers/246944-while-loop-nested-within-for-loop
 
-        2.https://stackoverflow.com/questions/36843103/while-loop-with-if-else-statement-in-python/36843356
+        LeBrun. (2016, April 25). While loop with if/else statement in Python. 
+        Retrieved March 19, 2021, from Stack Overflow website: https://stackoverflow.com/questions/36843103/while-loop-with-if-else-statement-in-python/36843356
 
-
+‌
 
 week 5 -- weekday.py:
     Returns whether or not today is a weekday.
@@ -58,12 +57,11 @@ week 5 -- weekday.py:
             of the tupple (Weekend days). Simpler than going through the other five days.
 
     B. References:
-        1. Documentation:
-            1.1 https://docs.python.org/2/library/datetime.html#strftime-strptime-behavior
-            1.2 https://docs.python.org/3/library/datetime.html
-        
-        2. Example of code:
-            https://stackoverflow.com/questions/9847213/how-do-i-get-the-day-of-week-given-a-date
+        “8.1. Datetime — Basic Date and Time Types — Python 2.7.18 Documentation.” Python.org, 2013, docs.python.org/2/library/datetime.html#strftime-strptime-behavior. Accessed 19 Mar. 2021.
+
+        “Datetime — Basic Date and Time Types — Python 3.9.2 Documentation.” Python.org, 2019, docs.python.org/3/library/datetime.html. Accessed 19 Mar. 2021.frazman. 
+
+        “How Do I Get the Day of Week given a Date?” Stack Overflow, 23 Mar. 2012, stackoverflow.com/questions/9847213/how-do-i-get-the-day-of-week-given-a-date. Accessed 19 Mar. 2021.
 
 
 
@@ -79,26 +77,19 @@ week 6 -- squareroot.py:
         6. Returns both values
 
     B. References:
-        1. Calculations:
-            1.1 https://www.school-for-champions.com/algebra/square_root_approx.htm#.YDbjvGj7QuU
-
-            1.2 https://docs.python.org/3/library/decimal.html
-
-            1.3 Defining accuracy: 
-                https://duckduckgo.com/?q=tolerance+in+python&atb=v262-2&ia=web
-
-            1.4 https://pythonhealthcare.org/2018/04/15/64-numpy-setting-width-and-number-of-decimal-places-in-numpy-print-output/
-
-            1.5 https://www.codespeedy.com/print-floats-to-a-specific-number-of-decimal-points-in-python/
-
-            1.6 Python square root function: 
-                https://realpython.com/python-square-root-function/
+        Allen, Michael. “64. NumPy: Setting Width and Number of Decimal Places in NumPy Print Output.” Python for Healthcare Modelling and Data Science, Python for healthcare modelling and data science, 15 Apr. 2018, pythonhealthcare.org/2018/04/15/64-numpy-setting-width-and-number-of-decimal-places-in-numpy-print-output/. Accessed 19 Mar. 2021.
+        
+        “Decimal — Decimal Fixed Point and Floating Point Arithmetic — Python 3.9.2 Documentation.” Python.org, 2021, docs.python.org/3/library/decimal.html. Accessed 19 Mar. 2021.
+        
+        Jianna. “Newton’s Method for Approximating Square Roots.” Stack Overflow, 19 Mar. 2019, stackoverflow.com/questions/55232484/newtons-method-for-approximating-square-roots. Accessed 19 Mar. 2021.
+        
+        “Newton’s Square Root Approximation by Ron Kurtus - Succeed in Understanding Algebra: School for Champions.” School-For-Champions.com, 2012, www.school-for-champions.com/algebra/square_root_approx.htm#.YDbjvGj7QuU. Accessed 19 Mar. 2021.
+        
+        “Print Floats to a Specific Number of Decimal Points in Python - CodeSpeedy.” CodeSpeedy, 5 Sept. 2019, www.codespeedy.com/print-floats-to-a-specific-number-of-decimal-points-in-python/. Accessed 19 Mar. 2021.
+        
+        Real Python. “The Python Square Root Function.” Realpython.com, Real Python, 8 July 2019, realpython.com/python-square-root-function/. Accessed 19 Mar. 2021.
 
 
-        2. Example of code:
-
-            2.1 Specifically comparing with python buil-in function:
-                https://stackoverflow.com/questions/55232484/newtons-method-for-approximating-square-roots
 
 week 7 -- es.py:
     Counts the occurence of a character in a file.
@@ -117,6 +108,8 @@ week 7 -- es.py:
 
         “Python - Counting the Number of Characters in Files.” Stack Overflow, 31 Aug. 2017, 
         stackoverflow.com/questions/45974386/python-counting-the-number-of-characters-in-files#45974638. Accessed 5 Mar. 2021.
+
+
 
 week 8 -- plottask.py:
     Displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
