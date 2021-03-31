@@ -6,7 +6,8 @@
 # Author: Daniel Gonzalez
 
 
-def collatz(n):
+def collatz():
+    n = get_number()
     numbers = []    
     # empty list to be populated by the loop 
     numbers.append(n)   
@@ -28,5 +29,8 @@ def collatz(n):
     return "list is: {}.".format(numbers) # Prints results
 
 
+def get_number():
+    # Gets number from user
+    return int(input('enter your number: '))
 
-print(collatz(int(input('enter your number: '))))
+print(collatz())
