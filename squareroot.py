@@ -3,8 +3,8 @@
 
 import math
 
-def squareRoot(number):
-
+def squareRoot():
+    number = get_number()
     while number <= 0:
     # Makes sure the number is a positive float
         print('number must be positive float')
@@ -31,6 +31,9 @@ def squareRoot(number):
     print('\nPython function says: {}.'.format(pythonFunction))
     return 'Our function says: {}.\n'.format(candidate)
 
+def get_number():
+    # Gets positive float from user
+    return float(input('Calculate the square root of (positive float): '))
 
-print(squareRoot(float(input('Calculate the square root of (positive float): '))))
+print(squareRoot())
 
