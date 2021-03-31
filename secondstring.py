@@ -1,10 +1,17 @@
-# Takes in a string and outputs every second letter in reverse order
+# Takes in a string from the user. 
+# Returns every second letter in reverse order.
 # Author: Daniel Gonzalez
 
 
-## -- asks user for a string -- ##
-string1 = "The quick brown fox jumps over the lazy dog."
+def get_string():
+    # asks user for a string 
+    return input("Enter string: ")
 
-## -- Prints the string backwards skiping one position -- ##
-print(string1[-1::-2])
+def second_string():
+    # Prints the string backwards skiping one position
+    string = get_string()
+    a =  string[-1::-2]
+    return a
+
+print(second_string())
 
